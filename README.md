@@ -6,3 +6,6 @@ This is my first nsmb rom hack! This rom hack, known as New Super Mario Bros. Re
 This rom hack will be made using NSMBe 5.4.1. You can find and download at www.nsmbhd.com.
 ———————————————————————————
 Note from 3-24-2026: At the moment developing NSMBr is impossible because my laptop had broken on January 2026, but its just a booting error so if I can get a new keyboard (and mouse) I may be able to go back to developing NSMBr!
+———————————————————————————
+Note from May-23-2026: Checked on my laptop and trackpad and keyboard was working again, maybe it was a driver problem though once its fixed i can definitely get back to this, though with me getting the new Tomodachi Life game when i do decide to try and fix it development may be slow because i will have a new hyperfixation, try to guess what that is?
+oh yeah i made a new logo that i am going to publish sometime so uh cool :)
