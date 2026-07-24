@@ -9,3 +9,5 @@ Note from 3-24-2026: At the moment developing NSMBr is impossible because my lap
 ———————————————————————————
 Note from May-23-2026: Checked on my laptop and trackpad and keyboard was working again, maybe it was a driver problem though once its fixed i can definitely get back to this, though with me getting the new Tomodachi Life game when i do decide to try and fix it development may be slow because i will have a new hyperfixation, try to guess what that is?
 oh yeah i made a new logo that i am going to publish sometime so uh cool :)
+———————————————————————————
+Note from July-24-2026: my laptop has been fixed fortunately so it is back in development, however i have decided to completely overhaul my original idea of the game, now featuring original stages instead of remixed ones from the original NSMB-DS, so do expect a ton of changes from the 1-1 preview i had posted.
